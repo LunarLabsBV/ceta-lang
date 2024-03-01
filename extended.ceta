@@ -1,0 +1,112 @@
+// CetaScript - A programming language inspired by the ocean
+
+// Data types
+type Whale = int;
+type Dolphin = float;
+type Coral = string;
+type Krill = smallint;
+
+// Variable declaration
+Whale ocean_depth;
+Dolphin temperature;
+Coral message;
+Krill counter;
+
+// Function definition
+function migrate(Whale distance) {
+    // Code for whale migration
+}
+
+function communicate(Coral message) {
+    // Code for dolphin communication
+}
+
+// Control flow
+if (temperature > 20.0) {
+    communicate("Water is warm!");
+} else {
+    communicate("Water is cold!");
+}
+
+for (counter = 0; counter < 10; counter++) {
+    migrate(100);
+}
+
+// Standard library
+import ocean_utilities;
+
+// Main function
+function main() {
+    ocean_depth = 1000;
+    temperature = 25.5;
+    message = "Welcome to CetaScript!";
+    
+    communicate(message);
+    migrate(500);
+}
+
+// CetaScript - A programming language inspired by the ocean
+
+// Data types
+type Whale = int;
+type Dolphin = float;
+type Coral = string;
+type Krill = smallint;
+
+// Variable declaration
+Whale ocean_depth;
+Dolphin temperature;
+Coral message;
+Krill counter;
+
+// Function definition
+function migrate(Whale distance) {
+    // Code for whale migration
+    print("Whale migrated " + distance + " miles.");
+}
+
+function communicate(Coral message) {
+    // Code for dolphin communication
+    print("Dolphin says: " + message);
+}
+
+// Control flow
+if (temperature > 20.0) {
+    communicate("Water is warm!");
+} else {
+    communicate("Water is cold!");
+}
+
+for (counter = 0; counter < 10; counter++) {
+    migrate(100);
+}
+
+// Error handling
+try {
+    // Code that might raise an error
+    if (ocean_depth < 0) {
+        throw "Negative ocean depth!";
+    }
+} catch (Coral error_message) {
+    print("Error: " + error_message);
+}
+
+// Standard library
+function get_random_whale_distance() {
+    // Code to get a random whale migration distance
+    return random(100, 1000);
+}
+
+// Main function
+function main() {
+    ocean_depth = 1000;
+    temperature = 25.5;
+    message = "Welcome to CetaScript!";
+    
+    communicate(message);
+    
+    for (counter = 0; counter < 3; counter++) {
+        Whale distance = get_random_whale_distance();
+        migrate(distance);
+    }
+}
