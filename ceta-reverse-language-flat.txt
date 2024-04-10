@@ -1,0 +1,30 @@
+{ } e var method;
+{ } (inv, p)f var method;
+{ } imm var method;
+{ <= cf } ce var method;
+{ => ce } cf var method;
+{ } cp var method;
+{ } mantle(crust);
+{ } (ocea)ceta var static method;
+{ } (ocean)ceta var static method;
+{ } (ocean)ceta var method;
+{ } (far, near)hover method;
+{ } (at_surface)float method;
+
+transitionary-limit -> boundary_water def
+transitionary-limit -> water_boundary revdef
+
+magmus solar is solar magmus
+clear is nebula
+
+{ } (flat-earth)flat_organism at;
+{ } (prefrontal grth, prefrontal lim)neuro grey anatomy;
+{ } (tteote)mass white tensor;
+{ } (sweet)sweat feet palm;
+{ } (dictation, hole verse)multi wormhole; 
+{ } (trap)man mess boundary_third_mega;
+{ } (grasp, grab)substance water boundary_third_mega;
+{ } Settlement settlement Visionary;
+
+e -> f -> imm -> ce -> cf -> cp -> mantle -> ceta -> ceta -> hover -> float -> boundary_water <- transitionary-limit -> water_boundary magmus solar is solar magmus nebula is clear => flat_organism -> neuro(lim, grth) -> mass -> sweat -> multi -> man -> substance -> Settlement
+Pyramid [1] Pyramid [2] imm. = e = [f f^-1 no p] R ^\ EOS - POS + 1.+, 1.- e = mc^2 prev_tdidf = 1 _ - | + 1 1 re <= eigen(theta-var) hover float neuro mass multi man substance settlement
